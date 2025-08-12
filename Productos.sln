@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modelos", "Modelos", "{3EAFF006-0EBB-4CE8-88D8-BD17C1B46BF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vistas", "Vistas", "{6C4F5737-21C8-4ED4-AB43-1AD3CE709E11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{E1C3D37A-6D52-4698-8F38-2EEB75134E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistas", "Vistas\Vistas.csproj", "{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C3D37A-6D52-4698-8F38-2EEB75134E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C3D37A-6D52-4698-8F38-2EEB75134E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C3D37A-6D52-4698-8F38-2EEB75134E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C3D37A-6D52-4698-8F38-2EEB75134E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E1C3D37A-6D52-4698-8F38-2EEB75134E01} = {3EAFF006-0EBB-4CE8-88D8-BD17C1B46BF0}
+		{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618} = {6C4F5737-21C8-4ED4-AB43-1AD3CE709E11}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC11334-21A8-4C9B-A18D-CC11337DA7B5}
+	EndGlobalSection
+EndGlobal

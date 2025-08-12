@@ -1,0 +1,11 @@
+C:\Users\Estudiante\Desktop\Productos\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Productos\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\LAB02-EQ11\Desktop\Productos\Modelos\bin\Debug\Modelos.dll
+C:\Users\LAB02-EQ11\Desktop\Productos\Modelos\bin\Debug\Modelos.pdb
+C:\Users\LAB02-EQ11\Desktop\Productos\Modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LAB02-EQ11\Desktop\Productos\Modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\LAB02-EQ11\Desktop\Productos\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\LAB02-EQ11\Desktop\Productos\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\LAB02-EQ11\Desktop\Productos\Modelos\obj\Debug\Modelos.csproj.Up2Date
+C:\Users\LAB02-EQ11\Desktop\Productos\Modelos\obj\Debug\Modelos.dll
+C:\Users\LAB02-EQ11\Desktop\Productos\Modelos\obj\Debug\Modelos.pdb
