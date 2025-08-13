@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\",
+  "WorkspaceRootPath": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1C3D37A-6D52-4698-8F38-2EEB75134E01}|Modelos\\Modelos.csproj|C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C3D37A-6D52-4698-8F38-2EEB75134E01}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}|Vistas\\Vistas.csproj|C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}|Vistas\\Vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}|Vistas\\Vistas.csproj|C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\vistas\\formularios\\frmadministracionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmadministracionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}|Vistas\\Vistas.csproj|C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\vistas\\formularios\\frmadministracionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}|Vistas\\Vistas.csproj|C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\vistas\\formularios\\frmadministracionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmadministracionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1C3D37A-6D52-4698-8F38-2EEB75134E01}|Modelos\\Modelos.csproj|c:\\users\\lab02-eq11\\desktop\\productos\\modelos\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}|Vistas\\Vistas.csproj|C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\vistas\\formularios\\frmadministracionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmadministracionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C3D37A-6D52-4698-8F38-2EEB75134E01}|Modelos\\Modelos.csproj|C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\modelos\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1C3D37A-6D52-4698-8F38-2EEB75134E01}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1C3D37A-6D52-4698-8F38-2EEB75134E01}|Modelos\\Modelos.csproj|C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\modelos\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1C3D37A-6D52-4698-8F38-2EEB75134E01}|Modelos\\Modelos.csproj|c:\\users\\garbr\\onedrive\\escritorio\\diario08_metodobuscar\\modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C3D37A-6D52-4698-8F38-2EEB75134E01}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}|Vistas\\Vistas.csproj|C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0C05D7-AA95-4CB5-BED6-6FDE9620A618}|Vistas\\Vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C3D37A-6D52-4698-8F38-2EEB75134E01}|Modelos\\Modelos.csproj|C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\modelos\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1C3D37A-6D52-4698-8F38-2EEB75134E01}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,67 +34,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Categorias.cs",
-              "DocumentMoniker": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Modelos\\Entidades\\Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Modelos\\Entidades\\Categorias.cs",
               "RelativeDocumentMoniker": "Modelos\\Entidades\\Categorias.cs",
-              "ToolTip": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Modelos\\Entidades\\Categorias.cs",
+              "ToolTip": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Modelos\\Entidades\\Categorias.cs",
               "RelativeToolTip": "Modelos\\Entidades\\Categorias.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T17:22:16.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T17:22:16.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Modelos\\Entidades\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Modelos\\Entidades\\Producto.cs",
               "RelativeDocumentMoniker": "Modelos\\Entidades\\Producto.cs",
-              "ToolTip": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Modelos\\Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Modelos\\Entidades\\Producto.cs",
               "RelativeToolTip": "Modelos\\Entidades\\Producto.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAowEUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFsAAACdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T15:43:36.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "frmAdministracionProductos.cs",
-              "DocumentMoniker": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Vistas\\Formularios\\frmAdministracionProductos.cs",
+              "DocumentMoniker": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Vistas\\Formularios\\frmAdministracionProductos.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmAdministracionProductos.cs",
-              "ToolTip": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Vistas\\Formularios\\frmAdministracionProductos.cs",
+              "ToolTip": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Vistas\\Formularios\\frmAdministracionProductos.cs",
               "RelativeToolTip": "Vistas\\Formularios\\frmAdministracionProductos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFEAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T17:19:14.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Modelos\\Conexion\\Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Modelos\\Conexion\\Conexion.cs",
               "RelativeDocumentMoniker": "Modelos\\Conexion\\Conexion.cs",
-              "ToolTip": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Modelos\\Conexion\\Conexion.cs",
+              "ToolTip": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Modelos\\Conexion\\Conexion.cs",
               "RelativeToolTip": "Modelos\\Conexion\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T15:41:53.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "frmAdministracionProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Vistas\\Formularios\\frmAdministracionProductos.cs",
+              "DocumentMoniker": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Vistas\\Formularios\\frmAdministracionProductos.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmAdministracionProductos.cs",
-              "ToolTip": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Vistas\\Formularios\\frmAdministracionProductos.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Vistas\\Formularios\\frmAdministracionProductos.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\Formularios\\frmAdministracionProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T15:44:21.773Z",
@@ -102,16 +101,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Vistas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Vistas\\Program.cs",
               "RelativeDocumentMoniker": "Vistas\\Program.cs",
-              "ToolTip": "C:\\Users\\LAB02-EQ11\\Desktop\\Productos\\Vistas\\Program.cs",
+              "ToolTip": "C:\\Users\\garbr\\OneDrive\\Escritorio\\Diario08_MetodoBuscar\\Vistas\\Program.cs",
               "RelativeToolTip": "Vistas\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T17:57:51.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T17:57:51.915Z"
             }
           ]
         }

@@ -79,6 +79,7 @@ namespace Vistas.Formularios
             pr.Nombre = txtNombreProducto.Text;
             pr.Cantidad = Convert.ToInt32(nudCantidad.Text);
             pr.Id_Categoria = Convert.ToInt32(cbCategoria.SelectedValue);
+            pr.Id = int.Parse(dgvProductos.CurrentRow.Cells[0].Value.ToString());
 
             if (pr.actualizarProductos())
             {
@@ -110,6 +111,14 @@ namespace Vistas.Formularios
                 MessageBox.Show("Registro no eliminado", "No seleccionado", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void dgvProductos_DoubleClick(object sender, EventArgs e)
+        {
+            txtNombreProducto.Text = dgvProductos.CurrentRow.Cells[1].Value.ToString();
+            nudCantidad.Text = dgvProductos.CurrentRow.Cells[2].Value.ToString();
+        }
+
+
     }
     
 }

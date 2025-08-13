@@ -112,8 +112,8 @@ namespace Modelos.Entidades
             try
             {
                 SqlConnection conexion = Conexion.Conexion.Conectar();
-                string consultaQuery = "select idProducto As Num, nombreProducto As Producto, cantidad as Cantidad, nombreCategoria as Categoria from Producto P" +
-                    "\r\nINNER JOIN \r\nCategoria C on C.idCategoria = P.id_Categoria WHERE P.nombreProducto LIKE '%{termino}%';";
+                string consultaQuery = $"select idProducto As Num, nombreProducto As Producto, cantidad as Cantidad, nombreCategoria as Categoria from Producto P" +
+                    $"\r\nINNER JOIN \r\nCategoria C on C.idCategoria = P.id_Categoria WHERE P.nombreProducto LIKE '%{termino}%';";
                 SqlDataAdapter ad = new SqlDataAdapter(consultaQuery, conexion);
                 DataTable dt = new DataTable();
                 ad.Fill(dt);
